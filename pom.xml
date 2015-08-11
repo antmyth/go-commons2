@@ -52,7 +52,7 @@
         </repository>
     </repositories>
     <scm>
-        <developerConnection>scm:git:git@github.com:antmyth/go-commons2.git</developerConnection>
+        <developerConnection>scm:git:https://antmyth@github.com:antmyth/go-commons2.git</developerConnection>
         <tag>my-proj-null</tag>
     </scm>
     <build>

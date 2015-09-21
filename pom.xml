@@ -7,7 +7,7 @@
     <version>0.0.33-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>GO Common components2</name>
-    <description>GO common components</description>
+    <description>GO common components update1</description>
 
     <properties>
         <scala.version>2.11.7</scala.version>
